@@ -11,7 +11,7 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **sobre mim**
+## <picture><img src = "https://i.pinimg.com/originals/3c/74/05/3c7405c2813a455e5ca5676717aa14dd.gif" width = 50px></picture> **sobre mim**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
